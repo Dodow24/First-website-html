@@ -1,0 +1,35 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100&display=swap');
+</style>
+font-family: 'Lato', sans-serif;
+p,li
+{
+	font-size: 20px;
+}
+h1
+{
+	color: #003BF6;
+}
+h2
+{
+	font-size: 30px;
+	color: #003BF6;
+}
+h3
+{
+	font-size : 26px;
+	color: #003BF6;
+}
+.circle-image
+{
+	border-radius: 500px;
+}
+.hr: {
+	height: 5px;
+	color: black;
+	background-color: #003BF6;
+}
+a:link {color:#003BF6;}
+a:visited {color:turquoise;}
+a:hover {color: green;}
+a:active {color:yellow;}
